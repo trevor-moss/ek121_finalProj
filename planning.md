@@ -23,6 +23,7 @@ https://catalog.data.gov/dataset/smart-location-database1
 [tree cover tweet](https://twitter.com/milos_agathon/status/1711039203365081534)\
 [canada wildfire tweet](https://twitter.com/ClimateReality/status/1711004265320165812)\
 [US census data map account](https://twitter.com/mapmakerbot)
+
 ---
 ### Ideas!
 **Migration of manufacturing work, returning to community or no?**\
