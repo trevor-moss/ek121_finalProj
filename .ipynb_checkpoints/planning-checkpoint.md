@@ -40,10 +40,29 @@ https://www.bls.gov/jlt/
 
 
 **Street names in europe**
-1. Genders of street names
+1. Genders of street names, timeseries based on DoDeath
 2. East to West Europe: Religious naming vs Political naming
     [quick visualization](https://drive.google.com/drive/folders/1bB89FyhKQwod1bRD2cpTbbuUH6zjguWa?usp=drive_link)
 
 https://www.europeandatajournalism.eu/cp_data_news/mapping-diversity-full-dataset-release/
 
+**Labor hours**
+https://www.data-is-plural.com/archive/2021-12-22-edition/
+* connect to GDP
+* happiness index
+* unemployment rate 1929-present bls
+* productivity
+* payroll/avg hourly earnings
+* 
 
+**Zero day exploits**
+https://docs.google.com/spreadsheets/d/1lkNJ0uQwbeC1ZTRrxdtuPLCIl7mlUreoKfSIgajnSyY/view#gid=0
+
+**Nighttime light**
+https://www.nature.com/articles/s41597-020-0510-y
+
+**Country leader birthplace**
+https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/YUS575
+
+**Hospital price list**
+https://www.dolthub.com/repositories/dolthub/hospital-price-transparency-v3/data/main/hospitals

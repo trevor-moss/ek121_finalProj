@@ -49,6 +49,10 @@ https://www.europeandatajournalism.eu/cp_data_news/mapping-diversity-full-datase
 **Labor hours**
 https://www.data-is-plural.com/archive/2021-12-22-edition/
 * connect to GDP
+* happiness index
+* unemployment rate 1929-present bls
+* productivity
+* payroll/avg hourly earnings
 * 
 
 **Zero day exploits**
