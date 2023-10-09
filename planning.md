@@ -45,5 +45,3 @@ https://www.bls.gov/jlt/
     [quick visualization](https://drive.google.com/drive/folders/1bB89FyhKQwod1bRD2cpTbbuUH6zjguWa?usp=drive_link)
 
 https://www.europeandatajournalism.eu/cp_data_news/mapping-diversity-full-dataset-release/
-
-
