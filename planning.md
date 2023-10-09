@@ -12,8 +12,13 @@ Employment by industry\
 https://fred.stlouisfed.org/tags/series?t=employment%3Bindustry%20productivity&ob=pv&od=desc
 
 ## Specific sets:
-https://catalog.data.gov/dataset/smart-location-database1
-[fracking chemical disclosures](https://fracfocus.org/)
+* https://catalog.data.gov/dataset/smart-location-database1
+* [fracking chemical disclosures](https://fracfocus.org/)
+* [sweetener yearly dataset: prod, consumption, import, pricing, etc](https://www.ers.usda.gov/data-products/sugar-and-sweeteners-yearbook-tables.aspx)
+* [river widths](https://zenodo.org/record/6425657#.Y2AxIILMI-Q)
+* [650,000 advertising demographics](https://themarkup.org/privacy/2023/06/08/from-heavy-purchasers-of-pregnancy-tests-to-the-depression-prone-we-found-650000-ways-advertisers-label-you) - [data](https://github.com/the-markup/xandr-audience-segments)
+* [US military interventions](https://sites.tufts.edu/css/mip-research/mip-dataset/)
+* 
 
 ## Other:
 [DATAISPLURAL (the one i was agonizing over)](https://www.data-is-plural.com/)\
@@ -31,6 +36,8 @@ Manufacturing jobs per state (visualized), contrasted with birthplace of manufac
 https://twitter.com/BLS_gov/status/1711037483922633073\
 https://migrationpatterns.org/
 https://www.bls.gov/opub/ted/2023/a-look-at-manufacturing-jobs-on-national-manufacturing-day.htm
+https://www.bls.gov/jlt/
+
 
 **Street names in europe**
 1. Genders of street names
