@@ -44,7 +44,6 @@ How did this impact labor, for ex: in the US?
 * consumer price index
 * Producer Price Indexes
 * American Time Use Survey
-* Consumer Expenditure Surveys
 * Occupational Requirements Survey
 * Injuries, Illnesses, and Fatalities
 
