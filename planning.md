@@ -53,7 +53,7 @@ https://www.data-is-plural.com/archive/2021-12-22-edition/
 * unemployment rate 1929-present bls
 * productivity
 * payroll/avg hourly earnings
-* 
+* consumer price index
 
 **Zero day exploits**
 https://docs.google.com/spreadsheets/d/1lkNJ0uQwbeC1ZTRrxdtuPLCIl7mlUreoKfSIgajnSyY/view#gid=0
