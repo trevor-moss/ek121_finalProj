@@ -31,6 +31,23 @@ https://fred.stlouisfed.org/tags/series?t=employment%3Bindustry%20productivity&o
 
 ---
 ### Ideas!
+**Labor hours**
+https://www.data-is-plural.com/archive/2021-12-22-edition/
+BIG CHANGE!! WWII 96hr/ww --> 40hr/ww (USA, and others)
+How did this impact labor, for ex: in the US?
+
+* connect to GDP
+* happiness index
+* unemployment rate 1929-present bls
+* productivity
+* payroll/avg hourly earnings
+* consumer price index
+* Producer Price Indexes
+* American Time Use Survey
+* Consumer Expenditure Surveys
+* Occupational Requirements Survey
+* Injuries, Illnesses, and Fatalities
+
 **Migration of manufacturing work, returning to community or no?**\
 Manufacturing jobs per state (visualized), contrasted with birthplace of manufacturing workers (visualized)
 https://twitter.com/BLS_gov/status/1711037483922633073\
@@ -39,21 +56,12 @@ https://www.bls.gov/opub/ted/2023/a-look-at-manufacturing-jobs-on-national-manuf
 https://www.bls.gov/jlt/
 
 
-**Street names in europe**
+~~**Street names in europe**~~
 1. Genders of street names, timeseries based on DoDeath
 2. East to West Europe: Religious naming vs Political naming
     [quick visualization](https://drive.google.com/drive/folders/1bB89FyhKQwod1bRD2cpTbbuUH6zjguWa?usp=drive_link)
 
 https://www.europeandatajournalism.eu/cp_data_news/mapping-diversity-full-dataset-release/
-
-**Labor hours**
-https://www.data-is-plural.com/archive/2021-12-22-edition/
-* connect to GDP
-* happiness index
-* unemployment rate 1929-present bls
-* productivity
-* payroll/avg hourly earnings
-* 
 
 **Zero day exploits**
 https://docs.google.com/spreadsheets/d/1lkNJ0uQwbeC1ZTRrxdtuPLCIl7mlUreoKfSIgajnSyY/view#gid=0
