@@ -54,3 +54,9 @@ https://docs.google.com/spreadsheets/d/1lkNJ0uQwbeC1ZTRrxdtuPLCIl7mlUreoKfSIgajn
 
 **Nighttime light**
 https://www.nature.com/articles/s41597-020-0510-y
+
+**Country leader birthplace**
+https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/YUS575
+
+**Hospital price list**
+https://www.dolthub.com/repositories/dolthub/hospital-price-transparency-v3/data/main/hospitals
