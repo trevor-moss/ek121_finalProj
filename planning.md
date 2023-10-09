@@ -40,7 +40,7 @@ https://www.bls.gov/jlt/
 
 
 **Street names in europe**
-1. Genders of street names
+1. Genders of street names, timeseries based on DoDeath
 2. East to West Europe: Religious naming vs Political naming
     [quick visualization](https://drive.google.com/drive/folders/1bB89FyhKQwod1bRD2cpTbbuUH6zjguWa?usp=drive_link)
 
