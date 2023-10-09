@@ -54,6 +54,7 @@ https://www.data-is-plural.com/archive/2021-12-22-edition/
 * productivity
 * payroll/avg hourly earnings
 * consumer price index
+* Producer Price Indexes
 * American Time Use Survey
 * Consumer Expenditure Surveys
 * Occupational Requirements Survey
