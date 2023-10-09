@@ -51,3 +51,6 @@ https://www.data-is-plural.com/archive/2021-12-22-edition/
 
 **Zero day exploits**
 https://docs.google.com/spreadsheets/d/1lkNJ0uQwbeC1ZTRrxdtuPLCIl7mlUreoKfSIgajnSyY/view#gid=0
+
+**Nighttime light**
+https://www.nature.com/articles/s41597-020-0510-y
