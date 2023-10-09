@@ -54,6 +54,10 @@ https://www.data-is-plural.com/archive/2021-12-22-edition/
 * productivity
 * payroll/avg hourly earnings
 * consumer price index
+* American Time Use Survey
+* Consumer Expenditure Surveys
+* Occupational Requirements Survey
+* Injuries, Illnesses, and Fatalities
 
 **Zero day exploits**
 https://docs.google.com/spreadsheets/d/1lkNJ0uQwbeC1ZTRrxdtuPLCIl7mlUreoKfSIgajnSyY/view#gid=0
