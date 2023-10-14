@@ -12,6 +12,7 @@ How did this impact labor, work culture
     * Scatter Plot: x-axis: time(years), y-axis: max overtime hours
     * Look at trend then compare to work culture 
     <p> <br> </p>
-3. Geographic trend
-    * Plot max overtime hours, East/West
+3. Compare working hours btw the Axis and Allies (before and after)
+
+
    
